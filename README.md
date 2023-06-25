@@ -4,10 +4,12 @@
 
 ![I am a software developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-![logo.]()
+![logo.](https://github.com/kunal-walunj/kunal-walunj/blob/main/Profile_picture%20.jpg)
 
 To work on a challenging project which provides a opportunity to enhance my technical skills and knowledge,
 this could provide me an insight into new aspects so it would be helpful for my career.
+
+
 
  Skills: JAVA ~ SQL ~
  HTML ~ CSS ~ BOOTSTRAP ~ 
@@ -20,10 +22,8 @@ this could provide me an insight into new aspects so it would be helpful for my 
 - 📫 How to reach me: kunalwalunj512@gmail.com  
 - ⚡ Fun fact: I am very funny  
 
+<img  alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
-
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in) 
 
 
 
