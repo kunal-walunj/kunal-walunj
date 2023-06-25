@@ -1,29 +1,37 @@
 
-### Hello 👋, My name is Kunal Walunj.
-#### I am a software developer.
+<h2> Hello 👋, My name is Kunal Walunj.</h2>
+<h3> I am a software developer.</h3>
 
-![I am a software developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<div>_____________________________________________________________________________________________________________________________</div>
+ 
+<img align="center" alt="img" src="https://github.com/kunal-walunj/kunal-walunj/blob/main/Profile_picture%20.jpg">
 
-![logo.](https://github.com/kunal-walunj/kunal-walunj/blob/main/Profile_picture%20.jpg)
+<div>_____________________________________________________________________________________________________________________________</div>
 
+<h3> About me-</h3>
+<p>
 To work on a challenging project which provides a opportunity to enhance my technical skills and knowledge,
 this could provide me an insight into new aspects so it would be helpful for my career.
+</p>
 
+<div>_____________________________________________________________________________________________________________________________</div>
+<div >
 
+<ul type="square">
+<li>🌱 I’m currently learning React-native</li>
+<li>💬 Ask me about Front end technologies</li>
+<li>📫 How to reach me: kunalwalunj512@gmail.com</li>
+<li>⚡ Fun fact: I am very funny</li>
+</div>
+<div>_____________________________________________________________________________________________________________________________</div>
 
- Skills: JAVA ~ SQL ~
- HTML ~ CSS ~ BOOTSTRAP ~ 
- TAILWIND-CSS ~ JAVASCRIPT ~
- REACT-JS 
+<img align="center" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+<div>_____________________________________________________________________________________________________________________________</div>
 
-- 🌱 I’m currently learning React-native 
-- 💬 Ask me about Front end technologies  
-- 📫 How to reach me: kunalwalunj512@gmail.com  
-- ⚡ Fun fact: I am very funny  
+<h3>Skills:</h3>
+<p>JAVA ~ SQL ~HTML ~ CSS ~ BOOTSTRAP ~ TAILWIND-CSS ~ JAVASCRIPT ~ REACT-JS 
+ </p>
 
-<img  alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-
-
+ <div>_____________________________________________________________________________________________________________________________</div>
 
