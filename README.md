@@ -2,11 +2,11 @@
 <h2> Hello 👋, My name is Kunal Walunj.</h2>
 <h3> I am a software developer.</h3>
 
-<div>_____________________________________________________________________________________________________________________________</div>
+<div>______________________________________________________________________________________________________________________________________________</div>
  
-<img align="center" alt="img" src="https://github.com/kunal-walunj/kunal-walunj/blob/main/Profile_picture%20.jpg">
+<img align="center" alt="img" src="https://github.com/kunal-walunj/kunal-walunj/blob/main/Profile_picture%20.png">
 
-<div>_____________________________________________________________________________________________________________________________</div>
+<div>______________________________________________________________________________________________________________________________________________</div>
 
 <h3> About me-</h3>
 <p>
@@ -16,11 +16,13 @@ this could provide me an insight into new aspects so it would be helpful for my 
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
-
+<div>
 <li>🌱 I’m currently learning React-native</li>
 <li>💬 Ask me about Front end technologies</li>
 <li>📫 How to reach me: kunalwalunj512@gmail.com</li>
 <li>⚡ Fun fact: I am very funny</li>
+</div>
+
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
