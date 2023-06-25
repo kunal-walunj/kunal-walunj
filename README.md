@@ -4,7 +4,7 @@
 
 <div>______________________________________________________________________________________________________________________________________________</div>
  
-<img align="center" alt="img" src="https://github.com/kunal-walunj/kunal-walunj/blob/main/Profile_picture%20.png">
+<img alt="img"height="360" width="1280" src="https://github.com/kunal-walunj/kunal-walunj/blob/main/Profile_picture%20.png">
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
