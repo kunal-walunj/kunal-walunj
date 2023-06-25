@@ -1,5 +1,7 @@
+
 ### Hello 👋, My name is Kunal Walunj.
 #### I am a software developer.
+
 ![I am a software developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 To work on a challenging project which provides a opportunity to enhance my technical skills and knowledge,
