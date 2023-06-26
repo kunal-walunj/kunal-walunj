@@ -4,11 +4,12 @@
 
 <div>______________________________________________________________________________________________________________________________________________</div>
  
-<img alt="img" src="Profile_picture%20.png">
+
+
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
-<h3> About me-</h3>
+<h3> Profile :</h3>
 <p>
 To work on a challenging project which provides a opportunity to enhance my technical skills and knowledge,
 this could provide me an insight into new aspects so it would be helpful for my career.
@@ -17,6 +18,7 @@ this could provide me an insight into new aspects so it would be helpful for my 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
 <div>
+<h3> About me :</h3>
 <li>🌱 I’m currently learning React-native</li>
 <li>💬 Ask me about Front end technologies</li>
 <li>📫 How to reach me: kunalwalunj512@gmail.com</li>
@@ -30,8 +32,8 @@ this could provide me an insight into new aspects so it would be helpful for my 
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
-<h3>Skills:</h3>
-<p>JAVA ~ SQL ~HTML ~ CSS ~ BOOTSTRAP ~ TAILWIND-CSS ~ JAVASCRIPT ~ REACT-JS 
+<h3> Skills :</h3>
+<p> JAVA ~ SQL ~HTML ~ CSS ~ BOOTSTRAP ~ TAILWIND-CSS ~ JAVASCRIPT ~ REACT-JS 
  </p>
 
 <div>______________________________________________________________________________________________________________________________________________</div>
