@@ -1,5 +1,5 @@
 
-<img src="https://kunal-walunj.github.io/kunal-walunj/Profile_picture.png">
+<img src="https://kunal-walunj.github.io/kunal-walunj/images/profilepic.png">
 
 <div>______________________________________________________________________________________________________________________________________________</div>
  
@@ -33,15 +33,14 @@ this could provide me an insight into new aspects so it would be helpful for my 
    
 
 <h3> Skills :</h3>
-    <img height="100rem" width="100rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/Microsoft-sql-server-01/Microsoft-sql-server-01.png" alt="sql">
-    <img height="100rem" width="100rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/Java-01/Java-01.png" alt="java">
-    <img height="100rem" width="100rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/HTML-5-01/HTML-5-01.png" alt="html">
-    <img height="100rem" width="100rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/CSS-3-01/CSS-3-01.png" alt="css">
-    <img height="100rem" width="100rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/Bootstrap-07/Bootstrap-07.png" alt="bs">
-    <img height="100rem" width="100rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/Tailwindcss-01/Tailwindcss-01.png" alt="tcss">
-    <img height="100rem" width="100rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/JavaScript-01/JavaScript-01.png" alt="js">
-    <img height="100rem" width="100rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/React-01/React-01.png" alt="react-js">
-
+    <img height="50rem" width="50rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/Microsoft-sql-server-01/Microsoft-sql-server-01.png" alt="sql">
+    <img height="50rem" width="50rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/Java-01/Java-01.png" alt="java">
+    <img height="50rem" width="50rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/HTML-5-01/HTML-5-01.png" alt="html">
+    <img height="50rem" width="50rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/CSS-3-01/CSS-3-01.png" alt="css">
+    <img height="50rem" width="50rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/Bootstrap-07/Bootstrap-07.png" alt="bs">
+    <img height="50rem" width="50rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/Tailwindcss-01/Tailwindcss-01.png" alt="tcss">
+    <img height="50rem" width="50rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/JavaScript-01/JavaScript-01.png" alt="js">
+    <img height="50rem" width="50rem" border="1px solid" src="https://kunal-walunj.github.io/kunal-walunj/images/React-01/React-01.png" alt="react-js">
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
