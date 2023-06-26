@@ -4,7 +4,7 @@
 
 <div>______________________________________________________________________________________________________________________________________________</div>
  
-<img alt="img"height="360" width="1280" src="https://github.com/kunal-walunj/kunal-walunj/blob/main/Profile_picture%20.png">
+<img alt="img" src="Profile_picture%20.png">
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
@@ -26,7 +26,7 @@ this could provide me an insight into new aspects so it would be helpful for my 
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
-<img align="center" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="center" alt="Coding" width="300px" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
