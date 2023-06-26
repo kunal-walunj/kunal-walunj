@@ -1,9 +1,12 @@
 
-<h2> Hello 👋, My name is Kunal Walunj.</h2>
-<h3> I am a software developer.</h3>
+<img src="https://kunal-walunj.github.io/kunal-walunj/Profile_picture.png">
 
 <div>______________________________________________________________________________________________________________________________________________</div>
  
+ 
+<h2> Hello 👋, My name is Kunal Walunj.</h2>
+<h3> I am a software developer.</h3>
+
 
 
 
