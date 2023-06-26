@@ -20,7 +20,7 @@ this could provide me an insight into new aspects so it would be helpful for my 
 <h3> About me :</h3>
 <li>🌱 I’m currently learning React-native</li>
 <li>💬 Ask me about Front end technologies</li>
-<li>📫 How to reach me: kunalwalunj512@gmail.com</li>
+<li>📫 My email: kunalwalunj512@gmail.com</li>
 <li>⚡ Fun fact : I am very funny</li>
 </div>
 
@@ -29,29 +29,34 @@ this could provide me an insight into new aspects so it would be helpful for my 
 
 <h3> Skills :</h3>
     <span>
-    <img height="100rem" width="100rem" border="3px solid white" src="https://kunal-walunj.github.io/kunal-walunj/images/Microsoft-sql-server-01/Microsoft-sql-server-01.jpg" alt="sql">
+    <img height="100rem" width="100rem" src="https://kunal-walunj.github.io/kunal-walunj/images/Microsoft-sql-server-01/Microsoft-sql-server-01.jpg" alt="sql">
     </span>
     <span>
-    <img height="100rem" width="100rem" border="3px solid white" src="https://kunal-walunj.github.io/kunal-walunj/images/Java-01/Java-01.jpg" alt="java">
+    <img height="100rem" width="100rem" src="https://kunal-walunj.github.io/kunal-walunj/images/Java-01/Java-01.jpg" alt="java">
     </span>
     <span>
-    <img height="100rem" width="100rem" border="3px solid white" src="https://kunal-walunj.github.io/kunal-walunj/images/HTML-5-01/HTML-5-01.jpg" alt="html">
+    <img height="100rem" width="100rem" src="https://kunal-walunj.github.io/kunal-walunj/images/HTML-5-01/HTML-5-01.jpg" alt="html">
     </span>
     <span>
-    <img height="100rem" width="100rem" border="3px solid white" src="https://kunal-walunj.github.io/kunal-walunj/images/CSS-3-01/CSS-3-01.jpg" alt="css">
+    <img height="100rem" width="100rem" src="https://kunal-walunj.github.io/kunal-walunj/images/CSS-3-01/CSS-3-01.jpg" alt="css">
     </span>
     <span>
-    <img height="100rem" width="100rem" border="3px solid white" src="https://kunal-walunj.github.io/kunal-walunj/images/Bootstrap-07/Bootstrap-07.jpg" alt="bs">
+    <img height="100rem" width="100rem" src="https://kunal-walunj.github.io/kunal-walunj/images/Bootstrap-07/Bootstrap-07.jpg" alt="bs">
     </span>
     <span>
-    <img height="100rem" width="100rem" border="3px solid white" src="https://kunal-walunj.github.io/kunal-walunj/images/Tailwindcss-01/Tailwindcss-01.jpg" alt="tcss">
+    <img height="100rem" width="100rem" src="https://kunal-walunj.github.io/kunal-walunj/images/Tailwindcss-01/Tailwindcss-01.jpg" alt="tcss">
     </span>
     <span>
-    <img height="100rem" width="100rem" border="3px solid white" src="https://kunal-walunj.github.io/kunal-walunj/images/JavaScript-01/JavaScript-01.jpg" alt="js">
+    <img height="100rem" width="100rem" src="https://kunal-walunj.github.io/kunal-walunj/images/JavaScript-01/JavaScript-01.jpg" alt="js">
     </span>
     <span>
-    <img height="100rem" width="100rem" border="3px solid white" src="https://kunal-walunj.github.io/kunal-walunj/images/React-01/React-01.jpg" alt="react-js">
+    <img height="100rem" width="100rem" src="https://kunal-walunj.github.io/kunal-walunj/images/React-01/React-01.jpg" alt="react-js">
 
 <div>______________________________________________________________________________________________________________________________________________</div>
 
- <img align="center" alt="Coding" width="300px" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h3>.</h3>
+ <img align="center" alt="Coding" width="350px" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+ 
+<div>______________________________________________________________________________________________________________________________________________</div>
+
